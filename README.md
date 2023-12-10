@@ -10,7 +10,7 @@ I'm a developer training for a master's degree in software engineering at the IP
 
 I started by studying electronics and embedded programming, then networks and telecoms, and finally software development.
 
-## Other Common Github Profile Sections
+## ✉️ Other information
 👩‍💻 I'm currently working on software for controlling digital instruments using the VISA protocol (oscilloscopes, spectrum analyzers, etc.).
 
 💬 ask me questions about VISA communication, Python and Qt (PySide or PyQt)
