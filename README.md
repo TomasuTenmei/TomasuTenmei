@@ -28,9 +28,9 @@ I started by studying electronics and embedded programming, then networks and te
 
     Assembly, C, C++, C#, Java, Python, Javascript, PHP, Prolog, PowerShell
 
-**Markup and Style Languages:**
+**DevOps**
 
-    HTML, CSS, Markdown
+    Terraform, Ansible
 
 **Database Query Languages:**
 
@@ -43,7 +43,4 @@ I started by studying electronics and embedded programming, then networks and te
 **Hardware Description Languages:**
 
     VHDL
-
-**Graphics Development Environments:**
-
-    LabVIEW
+    
