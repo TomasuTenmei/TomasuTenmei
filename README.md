@@ -26,11 +26,11 @@ I started by studying electronics and embedded programming, then networks and te
 ## 🛠 Skills
 **Programming Languages:**
 
-    Assembly, C, C++, C#, Java, Python, Javascript, PHP, Prolog, PowerShell
+    C, C++, C#, Go, Java, Python, Javascript, PHP, Prolog, Rust
 
 **DevOps**
 
-    Terraform, Ansible
+    Terraform, Ansible, Docker
 
 **Database Query Languages:**
 
@@ -38,7 +38,7 @@ I started by studying electronics and embedded programming, then networks and te
 
 **Frameworks and Libraries:**
 
-    Qt
+    Angular, Electron, Qt, React, Symfony, Vue
 
 **Hardware Description Languages:**
 
